@@ -1,6 +1,4 @@
 # Calculator-Using-Java-Swing
-When writing about this project on a resume, you'll want to highlight the skills and experiences gained through its development. Here are some key points you could include:
-
 1. **Project Description**: Briefly describe the project, mentioning that it's a graphical calculator application developed using Java Swing.
 
 2. **Technical Skills**: Highlight the technical skills utilized in the project, such as:
@@ -28,5 +26,3 @@ When writing about this project on a resume, you'll want to highlight the skills
 11. **Learning and Growth**: Reflect on any new concepts or techniques you learned while working on the project and how they contributed to your professional growth.
 
 12. **Achievements**: If applicable, mention any achievements related to the project, such as successful deployment or positive feedback from users or stakeholders.
-
-By highlighting these points, you can effectively showcase your technical skills, problem-solving abilities, and experience in software development to potential employers.
